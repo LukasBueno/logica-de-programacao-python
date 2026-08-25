@@ -19,7 +19,7 @@ Você pode ler os resumos clicando diretamente nos arquivos `.ipynb` aqui mesmo 
 
 **Execução Interativa (Google Colab):**
 Para rodar os códigos presentes no resumo sem precisar instalar nada, você pode usar o Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LukasBueno/logica-de-programacao-python/blob/main/Logica.ipynb)
 
 ## 🛠️ Tecnologias Utilizadas
 * Python 3
